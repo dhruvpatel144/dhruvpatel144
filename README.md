@@ -1,7 +1,6 @@
 ## <samp>&gt; Hi there, I'm Dhruv
 
 - 🚀 A Final year Undergraduate in the discipline of Computer Science and Engineering at IIT Gandhinagar.
-- 🚀 Working at the Sustainability lab at IITGN.
 - 👀 Interested in Machine Learning, Deep Learning, Artificial Intelligence and its applications. 
 - ✉️ Contact me on patel.dhruv@iitgn.ac.in
 - 🌱 Past experience of working in the sustainability lab under the guidance of Prof. Nipun Batra at IIT Gandhinagar. Also worked as an app developer at Pravaig Dynamics.
