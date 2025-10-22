@@ -1,7 +1,7 @@
 ## <samp>&gt; Hi there, I'm Dhruv
 
 - 🚀 A graduate student at Texas A&M University.
-- 👀 Interested in Machine Learning, Deep Learning, Artificial Intelligence, Software Development.
+- 👀 Interested in Machine Learning, Artificial Intelligence, Software Development.
 - ✉️ Contact me on dhruvpatel144@tamu.edu
 - 🌱 Past experience of working in the sustainability lab under the guidance of Prof. Nipun Batra at IIT Gandhinagar. Also worked as an app developer at Pravaig Dynamics.
   
